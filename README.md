@@ -9,7 +9,7 @@ A solução foi desenvolvida combinando extração e agregação de dados via **
 
 ## 🖼️ Preview do Dashboard
 
-![Dashboard Preview](img/dashboardportfolio.png)
+![Dashboard Preview](IMG/DashboardPortfolio.png)
 
 ---
 
